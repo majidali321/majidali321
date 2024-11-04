@@ -24,8 +24,11 @@ Here are some of the projects I’m working on. You can find the full project de
 
 ---
 ![Majid Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MajidAli&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajidAli&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majidali321&layout=compact&theme=radical)
+
 [![Contact Me](https://img.shields.io/badge/Contact-Email-blue)](mailto:mianmajid577@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/majid-ali-5ab8032b4/)
 
 
