@@ -1,6 +1,6 @@
 # Hi, I'm Majid Ali 👋
 
-I'm a Data Science student currently learning with SMIT Saylani, Pakistan. This profile repository showcases my data Science projects, learning progress, and hands-on work in Python and related technologies.
+I'm a Agentic AI  student currently learning with SMIT Saylani and GIAIC sindh, Pakistan. This profile repository showcases my data Science projects, learning progress, and hands-on work in Python and related technologies.
 
 ## 📚 About Me
 I'm passionate about data Science, and this GitHub profile is dedicated to documenting my journey. Here, you'll find my projects, scripts, and resources as I dive deeper into data engineering concepts like ETL pipelines, data cleaning, and data warehousing.
